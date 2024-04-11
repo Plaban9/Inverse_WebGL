@@ -1,9 +1,9 @@
 const cacheName = "Minimalist-INVERSE-1.o";
 const contentToCache = [
     "Build/RC_Build_WebGL.loader.js",
-    "Build/RC_Build_WebGL.framework.js.br",
-    "Build/RC_Build_WebGL.data.br",
-    "Build/RC_Build_WebGL.wasm.br",
+    "Build/RC_Build_WebGL.framework.js.unityweb",
+    "Build/RC_Build_WebGL.data.unityweb",
+    "Build/RC_Build_WebGL.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
